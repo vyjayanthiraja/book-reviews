@@ -1,2 +1,2 @@
 # book-reviews
-Reviews of books I enjoyed
+Notes from books I enjoyed
